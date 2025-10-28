@@ -1,11 +1,15 @@
 {
   "servers": {
+    "nuxt": {
+      "url": "https://mcp.nuxt.com/sse"
+    },
     "shadcnVue": {
       "command": "npx",
-      "args": [
-        "shadcn-vue@latest",
-        "mcp"
-      ]
+      "args": ["shadcn-vue@latest", "mcp"]
+    },
+    "context7": {
+      "type": "http",
+      "url": "https://mcp.context7.com/mcp"
     }
   }
 }

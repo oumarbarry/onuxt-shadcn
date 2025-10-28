@@ -7,6 +7,8 @@ definePageMeta({
 
 <template>
   <div class="flex min-h-screen items-center justify-center">
-    <Button>Login</Button>
+    <Button size="lg">
+      Login
+    </Button>
   </div>
 </template>

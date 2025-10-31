@@ -21,5 +21,5 @@ export default defineNuxtConfig({
   eslint: { config: { standalone: false } },
   shadcn: { prefix: "" },
   lucide: { namePrefix: "" },
-  fonts: { defaults: { weights: [100, 200, 300, 400, 500, 600, 700, 800, 900] } },
+  fonts: { defaults: { weights: [100, 200, 300, 400, 500, 600, 700, 800, 900] } }, // ['100 900']
 })

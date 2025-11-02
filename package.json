@@ -22,13 +22,13 @@
     "zod": "^4.1.12"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^6.1.0",
+    "@antfu/eslint-config": "^6.2.0",
     "@dxup/nuxt": "^0.2.0",
     "@nuxt/eslint": "^1.10.0",
     "@types/node": "^22.18.13",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
-    "eslint": "^9.38.0",
+    "eslint": "^9.39.0",
     "eslint-plugin-tailwindcss": "^4.0.0-beta.0",
     "nuxt-lucide-icons": "^2.0.0",
     "shadcn-nuxt": "^2.3.2",
